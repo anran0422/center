@@ -2,7 +2,7 @@ spring:
   # Database Config
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: 'jdbc:mysql://49.232.247.210:3306/planet'
+    url: jdbc:mysql://127.0.0.1/planet
     username: anran
     password: anran0422
   # session 失效时间
