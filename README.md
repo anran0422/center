@@ -5,7 +5,7 @@
 
 ![](https://cloud-1311088844.cos.ap-beijing.myqcloud.com/public_share/project/center/%E7%99%BB%E5%BD%95.jpg)
 
-### 项目收货
+### 项目收获
 
 - 学会前后端企业主流开发技术的应用
 - 了解做项目的完整流程，能够独立开发及上线项目
